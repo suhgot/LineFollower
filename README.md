@@ -34,7 +34,7 @@ This is the main sketch for the line follower robot. It includes:
 
 To use this code:
 
-```cpp
+```arduino
 // Upload `Project_2.ino` to your Arduino:
 // 1. Connect line sensors (e.g. photoresistor) to analog/digital pins.
 // 2. Connect motors via the driver.
